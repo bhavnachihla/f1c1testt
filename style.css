@@ -1,0 +1,40 @@
+
+
+
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.logo{
+    width:100vw;
+    height:100vh;
+    background-color: aliceblue;
+    color:black;
+    padding:10px;
+    position:fixed;
+    top:0px;
+}
+
+ .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+.navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+#paregraph{
+    height:100px;
+    width:100px;
+    align-content:center;
+    background-color:blue;
+    color:white;
+}
+
